@@ -35,17 +35,27 @@ C'est un graphique annuel linéaire. Ici les données de penta 1 pour les 12 moi
 C'est une moyenne des doses administrées pour les trois derniers mois consécutifs.
 
 
-## La démarche utilisée est résumée par ce graphique.
+## La démarche utilisée est résumée par ce graphique.    
+
 
 ![ Démarche itérative d'amélioration de la qualité des données ](/images/demarche_analyse.png)
 
+
 ## Exemples de dashboard:
 
+
+Valeurs manquantes
 ![ Valeurs manquantes ](/images/Donnees_manquantes.png)
 
+
+Cohérence interne 1
 ![ Quelques critère de cohérence interne ](/images/crit_1_2_3_4_a_b_c_d.png)
 
-![ Cohérence dans le temps ](/images/crit_1_2_3_4_a_b_c_d.png)
+Cohérence interne 2
+![ Quelques critère de cohérence interne ](/images/penta_crit_5_6_7.png)
+
+Cohérence dans le temps
+![ Cohérence dans le temps ](/images/coherence_dans_le_temps.png)
 
 ## les librairies utilisées sont:
 
