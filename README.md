@@ -3,7 +3,7 @@
 ## Les opérations menées sont:
 
 	- Données manquantes:
-Une donnée manquante (NaN) n'est pas forcement égale à 0. Il faudra le rechercher et les remplacer par leur valeur exacte.
+Une donnée manquante (NaN) n'est pas forcement égale à 0. Il faudra les rechercher et les remplacer par leur valeur exacte.
 
 	- Cohérence dans le temps:    
 C'est un graphique annuel linéaire. Ici les données de penta 1 pour les 12 mois des années 2000, 2001, 2002 sont affichées. On peut voir les augmentations ou les diminutions.    
@@ -37,13 +37,15 @@ C'est une moyenne des doses administrées pour les trois derniers mois consécut
 
 ## La démarche utilisée est résumée par ce graphique.
 
-! [ Démarche itérative d'amélioration de la qualité des données ]( "C:\Users\ADMIN\Documents\Projects_\Data_quality_who_dq_tools_vs_python\images\demarche_analyse.png" )
+! [ Démarche itérative d'amélioration de la qualité des données ]("\images\demarche_analyse.png" "Démarche itérative d'analyse de la qualité")
 
 ## Exemples de dashboard:
 
-! [ Valeurs manquantes ]( "C:\Users\ADMIN\Documents\Projects_\Data_quality_who_dq_tools_vs_python\images\Donnees_manquantes.png" )
+! [ Valeurs manquantes ]("\images\Donnees_manquantes.png" "Données manquantes")
 
-! [ Quelques critère de cohérence interne ]( "C:\Users\ADMIN\Documents\Projects_\Data_quality_who_dq_tools_vs_python\images\crit_1_2_3_4_a_b_c_d.png" )
+! [ Quelques critère de cohérence interne ]("\images\crit_1_2_3_4_a_b_c_d.png" "Cohérence interne")
+
+! [ Cohérence dans le temps ]( "\images\crit_1_2_3_4_a_b_c_d.png" "Cohérence dans le temps")
 
 ## les librairies utilisées sont:
 
