@@ -37,15 +37,15 @@ C'est une moyenne des doses administrées pour les trois derniers mois consécut
 
 ## La démarche utilisée est résumée par ce graphique.
 
-! [ Démarche itérative d'amélioration de la qualité des données ]("\images\demarche_analyse.png" "Démarche itérative d'analyse de la qualité")
+! [ Démarche itérative d'amélioration de la qualité des données ](\images\demarche_analyse.png "Démarche itérative d'analyse de la qualité")
 
 ## Exemples de dashboard:
 
-! [ Valeurs manquantes ]("\images\Donnees_manquantes.png" "Données manquantes")
+! [ Valeurs manquantes ](\images\Donnees_manquantes.png "Données manquantes")
 
-! [ Quelques critère de cohérence interne ]("\images\crit_1_2_3_4_a_b_c_d.png" "Cohérence interne")
+! [ Quelques critère de cohérence interne ](\images\crit_1_2_3_4_a_b_c_d.png "Cohérence interne")
 
-! [ Cohérence dans le temps ]( "\images\crit_1_2_3_4_a_b_c_d.png" "Cohérence dans le temps")
+! [ Cohérence dans le temps ](\images\crit_1_2_3_4_a_b_c_d.png "Cohérence dans le temps")
 
 ## les librairies utilisées sont:
 
