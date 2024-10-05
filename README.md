@@ -54,7 +54,10 @@ C'est une moyenne des doses administrées pour les trois derniers mois consécut
 ##### Cohérence interne 2
 ![ Quelques critère de cohérence interne ](/images/penta_crit_5_6_7.png)
 
-##### Cohérence dans le temps
+##### Cohérence dans le temps 1
+![ Cohérence dans le temps ](/images/coherence_dans_le_temps_0.png)
+
+##### Cohérence dans le temps 2
 ![ Cohérence dans le temps ](/images/coherence_dans_le_temps.png)
 
 ## les librairies utilisées sont:
