@@ -44,9 +44,11 @@ C'est une moyenne des doses administrées pour les trois derniers mois consécut
 ## Exemples de dashboard:
 
 
- ##### Valeurs manquantes
+##### Valeurs manquantes
 ![ Valeurs manquantes ](/images/Donnees_manquantes.png)
 
+##### Données aberrantes
+![ Données aberrantes ](/images/dashboard_styling_donnees_aberrantes.png)
 
 ##### Cohérence interne 1
 ![ Quelques critère de cohérence interne ](/images/crit_1_2_3_4_a_b_c_d.png)
