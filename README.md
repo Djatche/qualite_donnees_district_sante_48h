@@ -11,7 +11,7 @@ Une donnée manquante (NaN) n'est pas forcement égale à 0. Il faudra les reche
 C'est un graphique annuel linéaire. Ici les données de penta 1 pour les 12 mois des années 2000, 2001, 2002 sont affichées. On peut voir les augmentations ou les diminutions.    
 
 	- Cohérence interne:      
-10 critères ont été définit our évaluer la cohérence interne des données:
+11 critères ont été définit our évaluer la cohérence interne des données:
 
 |   Critères     |      Définitions           				      	|
 | :-----------	 |    :---------------------------      		      	|
