@@ -1,6 +1,3 @@
-![ Logo ](/images/lapin_sur_tortue.jpg)
-
-
 # Améliorer la qualité des données mensuelles de district de santé en 48 heures
 
 ![ image ](/images/lapin_sur_tortue.jpg)
