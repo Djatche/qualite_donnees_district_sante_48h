@@ -36,7 +36,7 @@ C'est un graphique annuel linéaire. Ici les données de penta 1 pour les 12 moi
 	- Consommation moyenne mensuelle (CMM):        
 C'est une moyenne des doses administrées pour les trois derniers mois consécutifs.
 
-![ image ](/images/calcul_CMM.PNG)
+![ CMM ](/images/calcul_CMM.png)
 
 ## La démarche utilisée est résumée par ce graphique.    
 
